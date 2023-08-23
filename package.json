@@ -5,7 +5,9 @@
   "main": "ex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsc ./ex1.ts"
+    "start": "tsc ./ex.ts",
+    "start1": "tsc ./ex1.ts",
+    "start2": "tsc ./ex2.ts"
   },
   "keywords": [],
   "author": "",
