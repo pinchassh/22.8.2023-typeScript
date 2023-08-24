@@ -8,7 +8,8 @@
     "start": "tsc ./ex.ts",
     "start1": "tsc ./ex1.ts",
     "start2": "tsc ./ex2.ts",
-    "start3": "tsc ./ex3.ts"
+    "start3": "tsc ./ex3.ts",
+    "start4": "tsc ./ex4.ts"
   },
   "keywords": [],
   "author": "",
